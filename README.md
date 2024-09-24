@@ -1,4 +1,6 @@
 **Random Forest Classification using Scikit-learn**
+
+
 This repository demonstrates the use of the Random Forest algorithm for a classification problem in machine learning. The Random Forest algorithm, a popular ensemble learning technique, builds multiple decision trees and aggregates their predictions by taking a majority vote, making it highly robust and less prone to overfitting.
 
 **In this tutorial, we will:**
